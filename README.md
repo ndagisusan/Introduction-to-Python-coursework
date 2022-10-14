@@ -14,5 +14,7 @@ Topics covered in the course:
 11. Building your first Python Project
 <br/>
 The course can be further improved by incorporating topics on:
-- Data structures and algorithms in Python
-- Ethics in Software developement
+<ul>
+  <li>Data structures and algorithms in Python</li>
+  <li>Ethics in Software developement</li>
+</ul>
