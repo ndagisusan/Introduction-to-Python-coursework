@@ -16,5 +16,5 @@ Topics covered in the course:
 The course can be further improved by incorporating topics on:
 <ul>
   <li>Data structures and algorithms in Python</li>
-  <li>Ethics in Software developement</li>
+  <li>Ethics in Software development</li>
 </ul>
