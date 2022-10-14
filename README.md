@@ -12,7 +12,6 @@ Topics covered in the course:
 9. Writing Clean Code - PEP8 standards, Code standards & Principles
 10. Using GitHub & Jupyter Notebooks
 11. Building your first Python Project
-
 <br/>
 The course can be further improved by incorporating topics on:
 - Data structures and algorithms in Python
