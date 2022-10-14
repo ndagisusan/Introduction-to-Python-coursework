@@ -13,7 +13,7 @@ Topics covered in the course:
 10. Using GitHub & Jupyter Notebooks
 11. Building your first Python Project
 
-<br/><br/>
+<br/>
 The course can be further improved by incorporating topics on:
 - Data structures and algorithms in Python
 - Ethics in Software developement
