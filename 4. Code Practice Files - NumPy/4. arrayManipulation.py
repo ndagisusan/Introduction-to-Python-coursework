@@ -1,4 +1,4 @@
-# # NumPy array manipulation
+# NumPy array manipulation
 length_dim = [1.1, 20.5, 53.6, 26.7, 89.4]  # Length in metres
 width = [10.23, 28.15, 24.6, 33.58, 54] # Width in metres
 
@@ -16,7 +16,7 @@ np_sum_dim = np_length + np_width
 print(np_sum_dim) # Add the vector values together. Array of same size
 
 
-# EXAMPLE 2
+# EXAMPLE 3
 # Convert length in m to cm
 np_length_cm = np.array(length_dim) * 100
 print(np_length_cm)
