@@ -20,6 +20,6 @@ print(np_sum_dim) # Add the vector values together. Array of same size
 # Convert length in m to cm
 np_length_cm = np.array(length_dim) * 100
 print(np_length_cm)
-# # OR
+# OR
 # np_length_cm = np_length * 100
 # print(np_length_cm)
