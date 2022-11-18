@@ -1,4 +1,4 @@
-# Introduction-to-Python-coursework
+# Introduction to Python coursework
 
 Topics covered in the course:
 1. Introduction to Python - Data types and operators
