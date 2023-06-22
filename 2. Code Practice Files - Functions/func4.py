@@ -1,7 +1,7 @@
 # 9. Arbitrary arguments - *args (Function accepts undefined number of arguments)
 def user_info(*args):
     print(args) #prints tuple
-    print("My country is " + user_info[2]) # fetch the item at index 2
+    print("My country is " + args[2]) # fetch the item at index 2
 
 user_info("Jane", 19, "Kenya")
 
@@ -9,7 +9,7 @@ user_info("Jane", 19, "Kenya")
 
 def user_info(*details): # Can use another variable name other than args - Same result
     print(details) #prints tuple
-    print("My country is " + user_info[2]) # fetch the item at index 2
+    print("My country is " + details[2]) # fetch the item at index 2
 
 user_info("Jane", 19, "Kenya")
 
@@ -25,7 +25,7 @@ my_function(child1 = "Emil", child2 = "Tobias", child3 = "Linus")
 # 11. Arbitrary Keyword Arguments - **kwargs (in Dictionaries) 
 def user_info(**kwargs):
     print(kwargs) #prints dictionary
-    print("My country is " + user_info["country"]) # fetch the value at the key = country
+    print("My country is " + kwargs["country"]) # fetch the value at the key = country
 
 user_info(name = "Jane", age = 19, country = "Kenya") 
 
@@ -33,7 +33,7 @@ user_info(name = "Jane", age = 19, country = "Kenya")
 
 def user_info(**details): # Can use another variable name other than kwargs - Same result
     print(details) #prints dictionary
-    print("My country is " + user_info["country"]) # fetch the value at the key = country
+    print("My country is " + details["country"]) # fetch the value at the key = country
 
 user_info(name = "Jane", age = 19, country = "Kenya") 
 
